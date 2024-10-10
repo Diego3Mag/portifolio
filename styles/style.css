@@ -56,9 +56,10 @@ body{
     
 
 .titulo__destaque{
-    color: var(--cor-terciaria)
+    color: var(--cor-terciaria);
 }    
 .apresentacao__conteudo{
+    color: var(--cor-terciaria);
     width: 50%;
     display: flex;
     flex-direction: column;
