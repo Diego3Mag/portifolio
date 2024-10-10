@@ -59,7 +59,7 @@ body{
     color: var(--cor-terciaria);
 }    
 .apresentacao__conteudo{
-    color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
     width: 50%;
     display: flex;
     flex-direction: column;
